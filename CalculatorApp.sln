@@ -11,7 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PasswordProblem_SoloLearn",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WordProblem_SoloLearn", "WordProblem_SoloLearn\WordProblem_SoloLearn.csproj", "{2193F291-3C25-494E-8555-8084A5567C3B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DestructorsPblm_SoloLearn", "DestructorsPblm_SoloLearn\DestructorsPblm_SoloLearn.csproj", "{53F70C43-0491-47BF-9E1D-353C773F86C4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DestructorsPblm_SoloLearn", "DestructorsPblm_SoloLearn\DestructorsPblm_SoloLearn.csproj", "{53F70C43-0491-47BF-9E1D-353C773F86C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factorial_Of_A_Number", "Factorial_Of_A_Number\Factorial_Of_A_Number.csproj", "{2273D804-0BFC-433E-874A-412A2038B606}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserType_PassInConstructor_SoloLearnPblm", "UserType_PassInConstructor_SoloLearnPblm\UserType_PassInConstructor_SoloLearnPblm.csproj", "{38939493-4044-4D72-AE13-0243BEC0C056}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{53F70C43-0491-47BF-9E1D-353C773F86C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53F70C43-0491-47BF-9E1D-353C773F86C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{53F70C43-0491-47BF-9E1D-353C773F86C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2273D804-0BFC-433E-874A-412A2038B606}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2273D804-0BFC-433E-874A-412A2038B606}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2273D804-0BFC-433E-874A-412A2038B606}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2273D804-0BFC-433E-874A-412A2038B606}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38939493-4044-4D72-AE13-0243BEC0C056}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38939493-4044-4D72-AE13-0243BEC0C056}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38939493-4044-4D72-AE13-0243BEC0C056}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38939493-4044-4D72-AE13-0243BEC0C056}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
