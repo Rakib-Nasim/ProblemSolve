@@ -20,7 +20,7 @@ namespace ReverseOfAString
             //Console.WriteLine("str2");
 
 
-            2nd way
+            //2nd way reverse
             Console.WriteLine("Put Your String");
             string str1 = Console.ReadLine();
             char[] cr1 = str1.ToCharArray();
