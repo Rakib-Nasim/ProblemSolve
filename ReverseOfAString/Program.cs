@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace ReverseOfAString
 {
@@ -43,6 +44,8 @@ namespace ReverseOfAString
             //    index--;
             //}
             //Console.WriteLine(str2);
+
+
         }
     }
 }
