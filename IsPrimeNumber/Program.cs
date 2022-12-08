@@ -14,13 +14,13 @@ namespace IsPrimeNumber
                 if (number % i == 0)
                 {
                     count = false;
-                    Console.WriteLine("Number: {0} is not Prime Number ", number);
+                    Console.WriteLine("Number {0} is not Prime Number ", number);
                     break;
                 }
             }
             if (count)
             {
-                Console.WriteLine("Number: {0} is Prime Number ", number);
+                Console.WriteLine("Number {0} is Prime Number ", number);
             }
         }
     }

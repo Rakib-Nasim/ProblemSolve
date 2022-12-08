@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci_Series", "Fibonac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsPrimeNumber", "IsPrimeNumber\IsPrimeNumber.csproj", "{32A9C209-8311-4AF7-A509-57BE6E79A285}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfTwoPrimeOrNot", "SumOfTwoPrimeOrNot\SumOfTwoPrimeOrNot.csproj", "{6543F73D-DB2D-4ACA-92B1-0F0DC414CE5D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{32A9C209-8311-4AF7-A509-57BE6E79A285}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{32A9C209-8311-4AF7-A509-57BE6E79A285}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{32A9C209-8311-4AF7-A509-57BE6E79A285}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6543F73D-DB2D-4ACA-92B1-0F0DC414CE5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6543F73D-DB2D-4ACA-92B1-0F0DC414CE5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6543F73D-DB2D-4ACA-92B1-0F0DC414CE5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6543F73D-DB2D-4ACA-92B1-0F0DC414CE5D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
