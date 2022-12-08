@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsPrimeNumber", "IsPrimeNum
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfTwoPrimeOrNot", "SumOfTwoPrimeOrNot\SumOfTwoPrimeOrNot.csproj", "{6543F73D-DB2D-4ACA-92B1-0F0DC414CE5D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Armstrong_Number", "Armstrong_Number\Armstrong_Number.csproj", "{C5553AEC-A278-4E42-8904-2AFBFBBFC067}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{6543F73D-DB2D-4ACA-92B1-0F0DC414CE5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6543F73D-DB2D-4ACA-92B1-0F0DC414CE5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6543F73D-DB2D-4ACA-92B1-0F0DC414CE5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5553AEC-A278-4E42-8904-2AFBFBBFC067}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5553AEC-A278-4E42-8904-2AFBFBBFC067}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5553AEC-A278-4E42-8904-2AFBFBBFC067}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5553AEC-A278-4E42-8904-2AFBFBBFC067}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
