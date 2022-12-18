@@ -33,7 +33,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumOfTwoPrimeOrNot", "SumOf
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Armstrong_Number", "Armstrong_Number\Armstrong_Number.csproj", "{C5553AEC-A278-4E42-8904-2AFBFBBFC067}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubbleSortAlgorithm", "BubbleSortAlgorithm\BubbleSortAlgorithm.csproj", "{E62A250F-8ABD-4220-9FE9-21567A02AE98}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BubbleSortAlgorithm", "BubbleSortAlgorithm\BubbleSortAlgorithm.csproj", "{E62A250F-8ABD-4220-9FE9-21567A02AE98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModernCalculator", "ModernCalculator\ModernCalculator.csproj", "{7B18466E-9217-461F-BF16-75C1CDDADF51}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +107,10 @@ Global
 		{E62A250F-8ABD-4220-9FE9-21567A02AE98}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E62A250F-8ABD-4220-9FE9-21567A02AE98}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E62A250F-8ABD-4220-9FE9-21567A02AE98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B18466E-9217-461F-BF16-75C1CDDADF51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B18466E-9217-461F-BF16-75C1CDDADF51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B18466E-9217-461F-BF16-75C1CDDADF51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B18466E-9217-461F-BF16-75C1CDDADF51}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

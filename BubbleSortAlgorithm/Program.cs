@@ -22,7 +22,7 @@ namespace BubbleSortAlgorithm
                             numbersArr[i] = number2;
                             numbersArr[i + 1] = number1;
                         }
-                    }
+                    } 
 
                 }
                 
@@ -36,7 +36,6 @@ namespace BubbleSortAlgorithm
             catch (Exception ex)
             {
                 Console.WriteLine(ex.Message);
-                Console.ReadKey();
             }
         }
         

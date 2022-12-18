@@ -115,23 +115,23 @@ namespace CalculatorApp
             //}
 
             //8th pblm
-            //int x = Convert.ToInt32(Console.ReadLine());
-            //for (int i = 0; i < x; i++)
-            //{
-            //    string[] Data = new string[2];
-            //    string strn = Console.ReadLine();
-            //    Data = strn.Split(' ');
-            //    int a = Convert.ToInt32(Data[0]);
-            //    int b = Convert.ToInt32(Data[1]);
-            //    if (b<=a*1.07)
-            //    {
-            //        Console.WriteLine("Yes");
-            //    }
-            //    else
-            //    {
-            //        Console.WriteLine("No");
-            //    }
-            //}
+            int x = Convert.ToInt32(Console.ReadLine());
+            for (int i = 0; i < x; i++)
+            {
+                string[] Data = new string[2];
+                string strn = Console.ReadLine();
+                Data = strn.Split(' ');
+                int a = Convert.ToInt32(Data[0]);
+                int b = Convert.ToInt32(Data[1]);
+                if (b <= a * 1.07)
+                {
+                    Console.WriteLine("Yes");
+                }
+                else
+                {
+                    Console.WriteLine("No");
+                }
+            }
 
             //9th
             //int x = Convert.ToInt32(Console.ReadLine());
