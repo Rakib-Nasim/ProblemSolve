@@ -49,7 +49,7 @@ namespace ModernCalculator
                         {
                             Console.WriteLine("Press wrong number");
                         }
-                        Console.WriteLine("Enter 1 to coutinue program or any number to exit ");
+                        Console.WriteLine("Enter 1 to coutinue calculation or any number to exit ");
                         int y = Convert.ToInt32(Console.ReadLine());
                         if (y == 1)
                         {
