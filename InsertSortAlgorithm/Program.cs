@@ -6,7 +6,7 @@ namespace InsertSortAlgorithm
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Implement Insert Sort Algorithm");
             int[] numbers ={ 2, 5, -4, 11, 0, 18, 22, 67, 51, 6 };
             for (int i = 0; i < numbers.Length - 1; i++)
             {
